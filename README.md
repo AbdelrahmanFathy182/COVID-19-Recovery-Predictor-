@@ -2,6 +2,10 @@
 
 A machine learning system to predict patient recovery/mortality from COVID-19 symptoms and demographic data, based on WHO guidelines.
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-brightgreen)
+
 ## 📌 Overview
 - Predicts COVID-19 outcomes (recovered/deceased) using **5 ML classifiers**.
 - Processes WHO-standardized data (14 variables including symptoms, age, location).
